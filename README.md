@@ -2,4 +2,4 @@
 WebApp extracts data from PDFs
 
 
-![Settings Window](https://raw.github.com/vamos/extRaktor/blob/main/screenshot.png)
+![Alt text](/screenshot.png?raw=true "Optional Title")
